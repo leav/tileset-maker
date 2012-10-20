@@ -4,5 +4,4 @@ This is a program for editing and combining tilesets for RPG Maker XP. The progr
 
 To configure the settings, use [settings.rb](https://github.com/leav/tileset-maker/blob/master/settings.rb)
 
-Screenshot
 ![TilesetMaker screenshot](https://raw.github.com/leav/tileset-maker/master/screenshot.jpg)
